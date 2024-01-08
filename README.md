@@ -7,7 +7,7 @@ I've really been trying to expand my coding knowledge by trying to make small ga
 ## 💡 What I'm currently learning:
 - Playdate SDK; Going from making small demo games in JavaScript and PICO-8, the shift to working on the Playdate shares some similarities, but brings with it a lot of unknowns that have presented quite an interesting challenge. I really do think the Playdate is a nifty little indie device, so I want to make quite a few games for it!
 - Google Chrome Extension Development (but with React!); I've been dabbling with extension projects since college, but I haven't found a lot of up-to-date tutorials online until I stumbled on a Udemy course that ALSO shows you how to code extensions in React. Neat!
-- Go (Golang); I'm always looking into new languages, and a friend of mine mentioned they had started working with Go. I like it so far! As a heavy web-language developer, it takes me back to the languages I learned when I first started coding.
+- Go (Golang); I'm always looking into learning new languages, and a friend of mine mentioned they had started working with Go. I like it so far! As a heavy web-language developer, it takes me back to the languages I learned when I first started coding.
 ## 🎮 Other Hobbies:
 - I love to play video games and tabletop games. I've been a Nintendo-head since before I could remember, but I play on a wide range of platforms. My favorite genre is rouge-like.
 - I play pinball semi-competetively. Casual play to beat my high scores is always more low-pressure and fun, but I've met some great people doing local tournaments and have relly felt myself improve.
