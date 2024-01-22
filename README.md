@@ -11,8 +11,8 @@ I've really been trying to expand my coding knowledge by trying to make small ga
 ## 🎮 Other Hobbies:
 - I love to play video games and tabletop games. I've been a Nintendo-head since before I could remember, but I play on a wide range of platforms. My favorite genre is rouge-like.
 - I play pinball semi-competetively. Casual play to beat my high scores is always more low-pressure and fun, but I've met some great people doing local tournaments and have relly felt myself improve.
-- I like to draw and do graphic design. I recently designed Disney Lorcana playmats for me and my girlfriend.
-- I sometimes stream on Twitch; I like to primarily play retro games, draw, and play virtual pinball all while talking to chat.
+- I like to draw and do graphic design. I recently designed Disney Lorcana playmats for me and my fiancé.
+- I occasionally stream on [Twitch](https://www.twitch.tv/rSpargo); Right now, I'm experimenting with streaming/discussing my game development progress with the chat, but I also like to play retro games, draw, and play virtual pinball.
 ## ⚡ Fun facts:
 - I have over 1000 hours logged in The Binding of Isaac: Rebirth and it's where my cat Guppy gets his name!
 
