@@ -1,16 +1,18 @@
 ### >◎//: Greetings Programs! 👋 
 
-I'm Ryan, sometimes my friends call me Spargo. I'm a professional web engineer and novice game developer.
+I'm Ryan Spargo; a professional web developer and hobbyist graphic designer/game developer!
 
 ## 🔭 What I’m currently working on:
-I've really been trying to expand my coding knowledge by trying to make small games for different platforms/libraries. While I'm still taking baby steps now, I would love to enter some game jams in the future.
+Making a ton of templates and automations for tracking progress on projects and personal goals/notes with [Obsidian](https://obsidian.md). It's really helped organize my thoughts and I recommend everyone give it a try. I've got a plug-in in the works that essentially integrates Scryfall into your vault so you can track any kind of MtG card/deck in your vault.
 ## 💡 What I'm currently learning:
-Playdate SDK; Going from making small demo games in JavaScript and PICO-8, the shift to working on the Playdate shares some similarities, but brings with it a lot of unknowns that have presented quite an interesting challenge. I really do think the Playdate is a nifty little indie device, so I want to make quite a few games for it!
+In terms of programming: [SolidJS](https://www.solidjs.com/). Really trying to make more and more interfaces and make a more public identity for myself and Solid seemed like a great approach for that. Currently, it feels a lot like having all of the benefits/QOL of React, but perfect for situations that you don't need all of React's muscles.
+
+Outside of programming: I'm getting super into learning REAPER and music production! 🎚️🎛️🎹🎶
 ## 🎮 Other Hobbies:
-- I love to play video games and tabletop games. I've been a Nintendo-head since before I could remember, but I play on a wide range of platforms. My favorite genre is rouge-like.
-- I play pinball semi-competetively. Casual play to beat my high scores is always more low-pressure and fun, but I've met some great people doing local tournaments and have relly felt myself improve.
-- I like to draw and do graphic design. I recently designed Disney Lorcana playmats for me and my girlfriend.
-- I sometimes stream on Twitch.
+- 🎮🎲 Games; Love playing video games *and* tabletop games solo or with my wife. I also love coming up with small game ideas to make for PICO-8 and the Playdate.
+- 🎨 Graphic Design/Art; I primarily do personal projects, but I'd love to start doing freelance work and making convention buyables some day!
 ## ⚡ Fun facts:
-- I have over 1000 hours logged in The Binding of Isaac: Rebirth and it's where my cat Guppy gets his name!
+- I have 3 cats: Guppy, Eleanor, and Homer 🐱
+- A piece of my art has been tattooed on someone's arm!
+- If I could have *any* job, I'd specifically want to work for Disney on a team soely responsible for bringing new TRON-related projects to life.
 
