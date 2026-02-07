@@ -7,7 +7,7 @@ Making a ton of templates and automations for tracking progress on projects and 
 ## 💡 What I'm currently learning:
 In terms of programming: [SolidJS](https://www.solidjs.com/). Really trying to make more and more interfaces and make a more public identity for myself and Solid seemed like a great approach for that. Currently, it feels a lot like having all of the benefits/QOL of React, but perfect for situations that you don't need all of React's muscles.
 
-Outside of programming: I'm getting super into learning REAPER and music production! 🎚️🎛️🎹🎶
+Outside of programming: I'm getting super into learning Ableton and music production! 🎚️🎛️🎹🎶
 ## 🎮 Other Hobbies:
 - 🎮🎲 Games; Love playing video games *and* tabletop games solo or with my wife. I also love coming up with small game ideas to make for PICO-8 and the Playdate.
 - 🎨 Graphic Design/Art; I primarily do personal projects, but I'd love to start doing freelance work and making convention buyables some day!
