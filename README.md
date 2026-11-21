@@ -12,7 +12,7 @@ Outside of programming: I'm getting super into learning Ableton and music produc
 - 🎮🎲 Games; Love playing video games *and* tabletop games solo or with my wife. I also love coming up with small game ideas to make for PICO-8 and the Playdate.
 - 🎨 Graphic Design/Art; I primarily do personal projects, but I'd love to start doing freelance work and making convention buyables some day!
 ## ⚡ Fun facts:
-- I have 3 cats: Guppy, Eleanor, and Homer 🐱
+- I have 2 cats: Guppy and Eleanor 🐱
 - A piece of my art has been tattooed on someone's arm!
 - If I could have *any* job, I'd specifically want to work for Disney on a team soely responsible for bringing new TRON-related projects to life.
 
